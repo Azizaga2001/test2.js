@@ -19,7 +19,7 @@ class User {
 
 const user3 = new User()
 
-console.log(user3.talk())
+console.log("1)", user3.talk())
 
 //3)
 //создайте 2 обьекта user1, user2 используя ранее созданный класс User
